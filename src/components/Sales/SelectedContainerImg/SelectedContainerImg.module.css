@@ -1,0 +1,19 @@
+.imageContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+.mainImg {
+  width: 80%;
+  margin: 0 auto;
+}
+.otherImages {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  align-items: center;
+}
+.smallImg {
+  width: 80%;
+  margin: 0 auto;
+  cursor: pointer;
+}

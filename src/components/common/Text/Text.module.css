@@ -1,0 +1,37 @@
+.text {
+  color: var(--Base-100);
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.base0 {
+  color: var(--Base-100);
+}
+.base700 {
+  color: var(--Base-700);
+}
+.sm {
+  font-size: 14px;
+}
+.lg {
+  font-size: 18px;
+}
+.xl {
+  font-size: 20px;
+}
+.xl4 {
+  font-size: 36px;
+}
+.light300 {
+  font-weight: 300;
+}
+.medium {
+  font-weight: 500;
+}
+.semiBold {
+  font-weight: 600;
+}
+.font900 {
+  font-weight: 900;
+}
